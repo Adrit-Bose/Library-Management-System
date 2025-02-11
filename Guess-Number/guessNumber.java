@@ -22,7 +22,7 @@ public class guessNumber {
         if(guess < randomNumber){
             System.out.println("Guess Number is not the number");   
         }
-    
+        // this comment is added to test git usage
         else{
             System.out.println("It is correct");
         }
