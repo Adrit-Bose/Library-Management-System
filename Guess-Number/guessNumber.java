@@ -18,7 +18,7 @@ public class guessNumber {
         if(guess > randomNumber){
             System.out.println("Guess Number is not the number");
         }
-        
+
         if(guess < randomNumber){
             System.out.println("Guess Number is not the number");   
         }
